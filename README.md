@@ -1,3 +1,8 @@
 # Covid-19-India-Analysis-Dashboard---PowerB
 
-Click [here](https://app.powerbi.com/groups/me/reports/6c85246c-acc0-4ac0-b382-99fafe7e607e/ReportSection) for accessing Dashboard.
+#### Dashboard Demo
+
+
+https://user-images.githubusercontent.com/63160036/122720749-77f99880-d28d-11eb-8ced-027aab07ca48.mp4
+
+
