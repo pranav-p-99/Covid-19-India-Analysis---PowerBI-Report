@@ -2,7 +2,8 @@
 
 #### Dashboard Demo
 
+https://user-images.githubusercontent.com/63160036/123057779-c8a3f980-d425-11eb-9b36-e7e34142e29d.mp4
 
-https://user-images.githubusercontent.com/63160036/122720749-77f99880-d28d-11eb-8ced-027aab07ca48.mp4
+
 
 
