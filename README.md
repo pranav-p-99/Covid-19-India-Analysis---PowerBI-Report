@@ -1,4 +1,4 @@
-# Covid-19-India-Analysis-Dashboard---PowerB
+# Covid-19-India-Analysis-Dashboard---PowerBI
 
 #### Dashboard Demo
 
